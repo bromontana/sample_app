@@ -1,24 +1,11 @@
-# README
+# The Ruby on Rails Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I am learning Rails with [The Ruby on Rails Tutorial](https://www.railstutorial.org/book/). 
+In the tutorial there are three different apps that are
+built: 
 
-Things you may want to cover:
+ + hello_app
+ + static_app
+ + *sample_app*
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## sample_app
